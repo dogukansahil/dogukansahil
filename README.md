@@ -3,5 +3,7 @@
 - 🌱 I’m currently learning ML🤖!
 - 💞️ I’m looking to collaborate on ML!
 - 🧑‍💻 I share CSS, HTML and JS codes!
-- # https://www.dogukansahil.com.tr
-- # mail@dogukansahil.com.tr 
+-[Basic HTML Pro](https://github.com/dogukansahil/BasicHtmlPro).
+- https://www.dogukansahil.com.tr
+- https://twitter.com/DogukanSahil
+- - mail@dogukansahil.com.tr 
