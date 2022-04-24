@@ -6,4 +6,4 @@
 -[Basic HTML Pro](https://github.com/dogukansahil/BasicHtmlPro).
 - https://www.dogukansahil.com.tr
 - https://twitter.com/DogukanSahil
-- - mail@dogukansahil.com.tr 
+- mail@dogukansahil.com.tr 
