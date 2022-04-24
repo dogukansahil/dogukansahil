@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on ML!
 - 🧑‍💻 I share CSS, HTML and JS codes!
 # Projects
-* [HTSS](https://github.com/dogukansahil/HTSS).
+* [HTSS](https://github.com/dogukansahil/HTSS)
 # Contact
 - https://www.dogukansahil.com.tr
 - https://twitter.com/DogukanSahil
