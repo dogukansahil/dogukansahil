@@ -6,7 +6,9 @@
 - 🧑‍💻 I share CSS, HTML and JS codes!
 # Projects
 * [HTSS](https://github.com/dogukansahil/HTSS)
+* [Simple Notes](https://github.com/dogukansahil/simplenotes)
 * [Çorba](https://github.com/dogukansahil/corbacomtr)
+
 
 # Contact
 * [Miyelin](https://miyelin.com)
