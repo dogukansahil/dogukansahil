@@ -1,4 +1,5 @@
 # About me
+- ❤️‍🔥 I like to create projects using very little data.
 - 👋 Hi, I’m @dogukansahil
 - 👀 I’m interested in genes🧬 and bits🖥️!
 - 🌱 I’m currently learning ML🤖!
