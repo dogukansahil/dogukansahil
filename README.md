@@ -1,5 +1,5 @@
 * [Fiverr](https://www.fiverr.com/s/xK4Dox)
-
+* [Twitter](https://twitter.com/DogukanSahil)
 # About me
 - ❤️‍🔥 I enjoy creating projects that utilize minimal data
 - 👋 Hi, I’m @dogukansahil and i am a genetics and bioengineer!
