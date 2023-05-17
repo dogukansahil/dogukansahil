@@ -8,10 +8,3 @@
 - 💞️ I’m looking to collaborate on ML!
 - 🧑‍💻 I share CSS, HTML and JS codes!
 
-# Projects
-* [HTSS](https://github.com/dogukansahil/HTSS)
-* [Simple Notes](https://github.com/dogukansahil/simplenotes)
-
-
-# Contact
-- mail@dogukansahil.com.tr 
