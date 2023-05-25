@@ -15,16 +15,55 @@
 
 Hello! I'm Doğukan Sahil, a passionate Genetics and Bioengineer. I have a strong interest in genetic research and the application of bioengineering in healthcare. I believe that combining biology with engineering principles can revolutionize the medical field and improve people's lives. In my free time, I enjoy coding and contributing to open source projects related to genetics and bioengineering.
 
-## Services
+## Education
 
-- **Web Development**: I have experience in front-end and back-end web development. I enjoy building user-friendly and responsive websites using modern technologies like HTML, CSS, JavaScript, and frameworks like React and Node.js.
+- Istanbul Okan University
+  - Bachelor of Genetics and Bioengineering
+  - 2016 - 2022
 
-- **Bioinformatics**: With my background in genetics and bioengineering, I can also provide bioinformatics services. I have expertise in analyzing genetic data, performing sequence alignments, and developing computational tools for genetic research.
+## Experience
 
-- **Medical Writing**: Being knowledgeable in genetics and bioengineering, I can offer medical writing services. I can write clear and concise scientific articles, research papers, and documentation related to genetics, bioengineering, and healthcare.
+- Founder
+  - 2023 - Present
+  - Recipe site powered by AI and Wordpress.
 
-## Contact Me
+- Founder And Editor-In-Chief
+  - 2022 — Present
+  - [miyelin.com](https://www.miyelin.com)
 
-If you'd like to get in touch with me, feel free to send me an email at [dogukan@example.com](mailto:dogukan@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/dogukansahil).
+- Laboratory Assistant
+  - 2021 (1 Month)
+  - Antalya Private Life Hospital (Necessary vocational training)
 
-Looking forward to collaborating with you!
+- Founder & Writer
+  - 2020 - 2021
+  - [roketbilimi.com](https://www.roketbilimi.com)
+
+- Laboratory Assistant
+  -2021
+  - Antalya Private Life Hospital (Necessary vocational training)
+
+- Writer
+  - 2020
+  - DEVELOPMENT OF NANOTECHNOLOGY BASED DRUG RELEASE SYSTEMS FOR CANCER TREATMENT METHODS BSc Thesis (Bachelor's thesis)
+
+## Skills
+
+- Laboratory Capabilities: 80%
+- Academic Report Writing: 90%
+- Web & Graphic Design: 70%
+- HTML & CSS: 80%
+- WordPress: 70%
+- AI: 20%
+
+## Languages
+
+- Turkish: 🇹🇷 100%
+- Azerbaijani: 🇦🇿 70%
+- English: 🇬🇧 70%
+- Russian: 🇷🇺 20%
+- Italian: 🇮🇹 30%
+
+Feel free to reach out to me via [email](mailto:dogukan@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/dogukansahil). I'm open to collaboration and always eager to learn and explore new opportunities.
+
+Looking forward to connecting with you!
