@@ -5,6 +5,13 @@
 [![GitHub](https://img.shields.io/badge/GitHub-dogukansahil-blue?style=flat&logo=github)](https://github.com/dogukansahil)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dogukansahil-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dogukansahil)
 [![Twitter](https://img.shields.io/badge/Twitter-dogukansahil-blue?style=flat&logo=twitter)](https://twitter.com/dogukansahil)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--5943--1401-blue?style=flat)](https://orcid.org/0000-0001-5943-1401)
+[![Facebook](https://img.shields.io/badge/Facebook-DogukanSahilF-blue?style=flat&logo=facebook)](https://www.facebook.com/DogukanSahilF)
+[![Instagram](https://img.shields.io/badge/Instagram-dogukansahil-blue?style=flat&logo=instagram)](https://www.instagram.com/dogukansahil/)
+[![WordPress](https://img.shields.io/badge/WordPress-dogukansahil-blue?style=flat&logo=wordpress)](https://profiles.wordpress.org/dogukansahil/)
+[![YouTube](https://img.shields.io/badge/YouTube-DoguSahil-red?style=flat&logo=youtube)](https://www.youtube.com/@DoguSahil)
+[![Spotify](https://img.shields.io/badge/Spotify-DogukanSahil-green?style=flat&logo=spotify)](https://open.spotify.com/show/2E5z1FmExb8ozaJjuI9d7J?si=nACyI38UTSis-i1HmslgWg)
+[![DeviantArt](https://img.shields.io/badge/DeviantArt-dogukansahil-blue?style=flat&logo=deviantart)](https://www.deviantart.com/dogukansahil)
 
 Hello! I'm Doğukan Sahil, a passionate Genetics and Bioengineer. I have a strong interest in genetic research and the application of bioengineering in healthcare. I believe that combining biology with engineering principles can revolutionize the medical field and improve people's lives. In my free time, I enjoy coding and contributing to open source projects related to genetics and bioengineering.
 
