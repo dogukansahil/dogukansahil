@@ -64,6 +64,6 @@ Hello! I'm Doğukan Sahil, a passionate Genetics and Bioengineer. I have a stron
 - Russian: 🇷🇺 20%
 - Italian: 🇮🇹 30%
 
-Feel free to reach out to me via [email](mailto:dogukan@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/dogukansahil). I'm open to collaboration and always eager to learn and explore new opportunities.
+Feel free to reach out to me via [email](mailto:dogukansahil@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/dogukansahil). I'm open to collaboration and always eager to learn and explore new opportunities.
 
 Looking forward to connecting with you!
