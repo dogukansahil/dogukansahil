@@ -22,65 +22,56 @@ Hello! I'm Doğukan Sahil, a passionate Genetics and Bioengineer. I have a stron
 
 ## Experience
 
-- Founder
-  - 2023 - Present
+- Founder (2023 - Present)
   - Recipe site powered by AI and Wordpress.
 
-- Founder And Editor-In-Chief
-  - 2022 — Present
+- Founder And Editor-In-Chief (2022 — 2023)
   - [miyelin.com](https://www.miyelin.com)
 
-- Laboratory Assistant
-  - 2021 (1 Month)
+- Laboratory Assistant (2021 (1 Month))
   - Antalya Private Life Hospital (Necessary vocational training)
 
-- Founder & Writer
-  - 2020 - 2021
+- Founder & Writer (2020 - 2021)
   - [roketbilimi.com](https://www.roketbilimi.com)
 
-- Laboratory Assistant
-  - 2021
-  - Antalya Private Life Hospital (Necessary vocational training)
-
 - Writer
-  - 2020
   - DEVELOPMENT OF NANOTECHNOLOGY BASED DRUG RELEASE SYSTEMS FOR CANCER TREATMENT METHODS BSc Thesis (Bachelor's thesis)
 
 ## Skills
 
-- Laboratory Capabilities: 80%
+- Laboratory Capabilities: 
   ![███████████████████████████▓░░░░░░░░](https://progress-bar.dev/80/)
 
-- Academic Report Writing: 90%
+- Academic Report Writing: 
   ![█████████████████████████████▓░░░░░░](https://progress-bar.dev/90/)
 
-- Web & Graphic Design: 70%
+- Web & Graphic Design: 
   ![█████████████████████▓░░░░░░░░░░░░░░](https://progress-bar.dev/70/)
 
-- HTML & CSS: 80%
+- HTML & CSS: 
   ![███████████████████████████▓░░░░░░░░](https://progress-bar.dev/80/)
 
-- WordPress: 70%
+- WordPress: 
   ![█████████████████████▓░░░░░░░░░░░░░░](https://progress-bar.dev/70/)
 
-- AI: 20%
+- AI: 
   ![█████▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░](https://progress-bar.dev/20/)
 
 ## Languages
 
-- Turkish: 🇹🇷 100%
+- Turkish: 🇹🇷 
   ![███████████████████████████████████████](https://progress-bar.dev/100/)
 
-- Azerbaijani: 🇦🇿 70%
+- Azerbaijani: 🇦🇿 
   ![█████████████████████▓░░░░░░░░░░░░░░░](https://progress-bar.dev/70/)
 
-- English: 🇬🇧 70%
+- English: 🇬🇧 
   ![█████████████████████▓░░░░░░░░░░░░░░░](https://progress-bar.dev/70/)
 
-- Russian: 🇷🇺 20%
+- Russian: 🇷🇺 
   ![█████▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░](https://progress-bar.dev/20/)
 
-- Italian: 🇮🇹 30%
+- Italian: 🇮🇹 
   ![██████▓░░░░░░░░░░░░░░░░░░░░░░░░░░░](https://progress-bar.dev/30/)
 
 Feel free to reach out to me via [email](mailto:dogukansahil@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/dogukansahil). I'm open to collaboration and always eager to learn and explore new opportunities.
