@@ -12,7 +12,10 @@
 [![YouTube](https://img.shields.io/badge/YouTube-DoguSahil-red?style=flat&logo=youtube)](https://www.youtube.com/@DoguSahil)
 [![Spotify](https://img.shields.io/badge/Spotify-DogukanSahil-green?style=flat&logo=spotify)](https://open.spotify.com/show/2E5z1FmExb8ozaJjuI9d7J?si=nACyI38UTSis-i1HmslgWg)
 [![DeviantArt](https://img.shields.io/badge/DeviantArt-dogukansahil-blue?style=flat&logo=deviantart)](https://www.deviantart.com/dogukansahil)
-![MacOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![MacBook Pro Intel](https://img.shields.io/badge/MacBook%20Pro-Intel-blue?style=for-the-badge&logo=apple&logoColor=white)
+![Mac Mini M1](https://img.shields.io/badge/Mac%20Mini-M1-orange?style=for-the-badge&logo=apple&logoColor=white)
+
+
 
 Hello! I'm Doğukan Sahil, a passionate Genetics and Bioengineer. I have a strong interest in genetic research and the application of bioengineering in healthcare. I believe that combining biology with engineering principles can revolutionize the medical field and improve people's lives. In my free time, I enjoy coding and contributing to open-source projects related to genetics and bioengineering.
 
