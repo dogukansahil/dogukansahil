@@ -19,49 +19,6 @@
 
 Hello! I'm Doğukan Sahil, a passionate Genetics and Bioengineer. I have a strong interest in genetic research and the application of bioengineering in healthcare. I believe that combining biology with engineering principles can revolutionize the medical field and improve people's lives. In my free time, I enjoy coding and contributing to open-source projects related to genetics and bioengineering.
 
-## Education
-
-- Istanbul Okan University
-  - 2016 - 2022 Bachelor of Genetics and Bioengineering
-
-## Experience
-
-- Founder (2023 - Present)
-  - Recipe site powered by AI and Wordpress.
-
-- Founder And Editor-In-Chief (2022 — 2023)
-  - [miyelin.com](https://www.miyelin.com)
-
-- Laboratory Assistant (2021 (1 Month))
-  - Antalya Private Life Hospital (Necessary vocational training)
-
-- Founder & Writer (2020 - 2021)
-  - [roketbilimi.com](https://www.roketbilimi.com)
-
-- Writer
-  - DEVELOPMENT OF NANOTECHNOLOGY BASED DRUG RELEASE SYSTEMS FOR CANCER TREATMENT METHODS BSc Thesis (Bachelor's thesis)
-
-## Skills
-
-- Laboratory Capabilities: 
-  ![███████████████████████████▓░░░░░░░░](https://progress-bar.dev/80/)
-
-- Academic Report Writing: 
-  ![█████████████████████████████▓░░░░░░](https://progress-bar.dev/90/)
-
-- Web & Graphic Design: 
-  ![█████████████████████▓░░░░░░░░░░░░░░](https://progress-bar.dev/70/)
-
-- HTML & CSS: 
-  ![███████████████████████████▓░░░░░░░░](https://progress-bar.dev/80/)
-
-- WordPress: 
-  ![█████████████████████▓░░░░░░░░░░░░░░](https://progress-bar.dev/70/)
-
-- AI: 
-  ![█████▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░](https://progress-bar.dev/20/)
-
-## Languages
 
 - Turkish: 🇹🇷 
   ![███████████████████████████████████████](https://progress-bar.dev/100/)
