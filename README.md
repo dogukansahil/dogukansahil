@@ -15,7 +15,8 @@
 ![MacBook Pro Intel](https://img.shields.io/badge/MacBook%20Pro-Intel-blue?style=for-the-badge&logo=apple&logoColor=white)
 ![Mac Mini M1](https://img.shields.io/badge/Mac%20Mini-M1-orange?style=for-the-badge&logo=apple&logoColor=white)
 
-[![App Store](https://img.shields.io/badge/App%20Store-Download-blue.svg)](https://apps.apple.com/tr/app/storage-statusbar/id6449625678?l=tr&mt=12)
+[![App Store](https://img.shields.io/badge/App%20Store-Storage%20Statusbar-blue.svg)](https://apps.apple.com/tr/app/storage-statusbar/id6449625678?l=tr&mt=12)
+
 
 
 Hello! I'm Doğukan Sahil, a passionate Genetics and Bioengineer. I have a strong interest in genetic research and the application of bioengineering in healthcare. I believe that combining biology with engineering principles can revolutionize the medical field and improve people's lives. In my free time, I enjoy coding and contributing to open-source projects related to genetics and bioengineering.
