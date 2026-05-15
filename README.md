@@ -1,32 +1,31 @@
-┌───────────────────────────────────────────────────────────────────────────────────────────┐
-│ dogukansahilsahil@protonmail.com                                                          │
-├───────────────────────────────────────────────────────────────────────────────────────────┤
-│                                                                                           │
-│  $ whoami                                               .---.                             │
-│  ┌──────────────────────────────────────────┐          /     \                            │
-│  │ Doğukan Sahil                            │         |   🧬  |                           │
-│  │ Interdisciplinary Engineer               │          \ / \ /                            │
-│  │                                          │           \ X /                             │
-│  │ MSc Biomedical | BSc Genetics            │          / \ / \                            │
-│  │ Ph.D. Candidate: ML + SNP Analysis       │         |   ⚙️  |                           │
-│  │                                          │          \ / \ /                            │
-│  └──────────────────────────────────────────┘           \ X /                             │
-│                                                        / \ / \                            │
-│  $ cat stack.conf                                     |   📡  |                          │
-│                                                        \     /                            │
-│  [hardware]   4-Layer SBCs • ECG • LoRa • C             '---'                             │
-│  [biotech]    SNP Analysis • Bioinformatics • ML                                          │
-│  [software]   Python • Cybersecurity • Virtualization                                     │
-│  [infra]      Self-Hosted HPC • Linux • Networking                                        │
-│                                                                                           │
-│  $ cat hobbies.txt                                                                        │
-│                                                                                           │
-│  Amateur Radio • Game Dev • Art History • Design Theory                                   │
-│                                                                                           │
-│  $ finger contact                                                                         │
-│                                                                                           │
-│  email: dogukansahil@protonmail.com                                                       │
-│                                                                                           │
-│  $ _                                                                                      │
-│                                                                                           │
-└───────────────────────────────────────────────────────────────────────────────────────────┘
+```text
+┌─────────────────────────────────────────────────────────────────────┐⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡶⠚⠋⠉⠉⠙⠓⠦⣄
+│  dogukansahil@protonmail.com  ~  [session: ph.d]                    │⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⠟⠁⠀⠀⠀⠀⠀⠀⠈⠳⣄
+├─────────────────────────────────────────────────────────────────────┤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⠏⠀⢀⡶⠚⠓⠲⢤⡀⠀⠹⣄
+│                                                                     │⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⠀⠸⣄⠀⠀⣳⠀⠀⣿
+│  $ whoami                                                           │⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣄⠀⠀⠈⠙⠒⠚⠋⠀⠀⣠⠏
+│  ┌──────────────────────────────────────────────────────────────┐   │⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢦⣀⠀⠀⠀⠀⣀⡴⠋
+│  │  Doğukan Sahil · Interdisciplinary Engineer ·                │   │⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣉⡟⠓⠶⠶⠖⠚⢻⣉
+│  │  MSc Biomedical Engineering | BSc Genetics & Bioengineering  │   │⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⠟⠁⠀⠀⠀⠀⠀⠀⠈⠳⣄
+│  │  Ph.D. Candidate: ML-assisted SNP Analysis                   │   │⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⠏⠀⢀⡶⠚⠓⠲⢤⡀⠀⠹⣄
+│  └──────────────────────────────────────────────────────────────┘   │⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⠀⠸⣄⠀⠀⣳⠀⠀⣿
+│                                                                     │⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣄⠀⠀⠈⠙⠒⠚⠋⠀⠀⣠⠏
+│  $ cat stack.conf                                                   │⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢦⣀⠀⠀⠀⠀⣀⡴⠋
+│                                                                     │⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣉⡟⠓⠶⠶⠖⠚⢻⣉
+│  [hardware]      4-Layer Linux SBCs · ECG · LoRa · Embedded C       │⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⠟⠁⠀⠀⠀⠀⠀⠀⠈⠳⣄
+│  [biotech]       SNP Analysis · Bioinformatics · ML · DSP           │⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⠏⠀⢀⡶⠚⠓⠲⢤⡀⠀⠹⣄
+│  [software]      Python · Cybersecurity · Virtualization            │⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⠀⠸⣄⠀⠀⣳⠀⠀⣿
+│  [infra]         Self-Hosted HPC · Linux · Networking               │⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣄⠀⠀⠈⠙⠒⠚⠋⠀⠀⣠⠏
+│                                                                     │⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢦⣀⠀⠀⠀⠀⣀⡴⠋
+│                                                                     │⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣉⡟⠓⠶⠶⠖⠚⢻⣉
+│  $ cat hobbies.txt                                                  │⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⠟⠁⠀⠀⠀⠀⠀⠀⠈⠳⣄
+│                                                                     │⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⠏⠀⢀⡶⠚⠓⠲⢤⡀⠀⠹⣄
+│  amateur radio · game dev · art history · design theory             │⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⠀⠸⣄⠀⠀⣳⠀⠀⣿
+│                                                                     │⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣄⠀⠀⠈⠙⠒⠚⠋⠀⠀⣠⠏
+│  $ finger contact                                                   │⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢦⣀⠀⠀⠀⠀⣀⡴⠋
+│  email: dogukansahil@protonmail.com                                 │⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠙⠓⠶⠶⠚⠋⠉
+│                                                                     │
+│  $ _                                                                │⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[ BIOTECH × EMBEDDED ]
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+```
