@@ -29,3 +29,5 @@
 │                                                                     │
 └─────────────────────────────────────────────────────────────────────┘
 ```
+📌 [DoBrowserSpeaker](https://github.com/dogukansahil/DoBrowserSpeaker)  
+📌 [DoPureMeta](https://github.com/dogukansahil/DoPureMeta)
