@@ -29,5 +29,7 @@
 │                                                                     │
 └─────────────────────────────────────────────────────────────────────┘
 ```
+📌 [erikOS](https://github.com/Genotomi/erikOS) 
+📌 [erik-tools](https://github.com/Genotomi/erik-tools) 
 📌 [DoBrowserSpeaker](https://github.com/dogukansahil/DoBrowserSpeaker)  
 📌 [DoPureMeta](https://github.com/dogukansahil/DoPureMeta)
