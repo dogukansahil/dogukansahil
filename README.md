@@ -32,4 +32,6 @@
 📌 [erikOS](https://github.com/Genotomi/erikOS) <br>
 📌 [erik-tools](https://github.com/Genotomi/erik-tools) <br>
 📌 [DoBrowserSpeaker](https://github.com/dogukansahil/DoBrowserSpeaker)  <br>
-📌 [DoPureMeta](https://github.com/dogukansahil/DoPureMeta)
+📌 [DoPureMeta](https://github.com/dogukansahil/DoPureMeta)  <br>
+📌 [DoWATT](https://github.com/dogukansahil/DoWATT) <br>
+   
