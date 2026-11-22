@@ -4,7 +4,7 @@
 
 <br/>
 
-<a href="mailto:dogukansahil@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-dogukansahil-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=0d1117"/></a>
+<img src="https://img.shields.io/badge/ProtonMail-dogukansahil-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/Ph.D.-ML--assisted%20SNP%20Analysis-f778ba?style=for-the-badge&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/📻-Amateur%20Radio-79c0ff?style=for-the-badge&labelColor=0d1117"/>
 
