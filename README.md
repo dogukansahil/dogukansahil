@@ -107,7 +107,14 @@ Turn any phone, tablet or laptop into a wireless speaker for your PC via local W
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
+
+#### 📝 [Domdly](https://github.com/dogukansahil/Domdly)
+Markdown reader and editor written from scratch in plain C: edit like a document, tabs, files sidebar, PDF export. No libraries, no telemetry.<br/>
+<sub>`C` · `Windows` · `Linux` · `GPL-3.0`</sub>
+
+</td>
+<td width="50%" valign="top">
 
 #### ⚡ [DoWATT](https://github.com/dogukansahil/DoWATT)
 Lightweight click-through Windows overlay showing measured or estimated system power and RAM usage at a glance.<br/>
